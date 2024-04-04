@@ -1,3 +1,4 @@
+<p align="center"><a href="https://luisitomayta.com" target="_blank"><img src="https://raw.githubusercontent.com/jorarmarfin/ide-lisp/master/images/logo_lisp.png" width="400" alt="IdeSlip"></a></p>
 
 # Editor de Código Lisp con CodeMirror
 
