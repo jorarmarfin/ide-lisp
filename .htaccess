@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Solo para uso academico de la clase de utp"
+AuthUserFile /etc/apache2/.htpasswd
+Require valid-user
