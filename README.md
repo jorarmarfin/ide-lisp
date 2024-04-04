@@ -16,10 +16,10 @@ Para utilizar este editor, simplemente clona el repositorio en tu servidor local
 
 ```bash
 git clone https://github.com/jorarmarfin/ide-lisp
-cd tuEditorCodeMirror
+cd ide-lisp
 ```
 
-Abre `index.html` en tu navegador para comenzar a usar el editor.
+Abre `index.php` en tu navegador para comenzar a usar el editor.
 
 ## Dependencias
 
